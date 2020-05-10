@@ -23,7 +23,7 @@ This repository contains all the scripts and packages used in the single cell RN
 
 To successfully perfom this analysis install the requried packages provided in the packages-used folder 
 
-# Scripts/codes Description
+# Repo Content Description
 
 The counts_barcodes folder has shell scripts that calculate the number of reads per distinct barcode for a FASTQ file containing CB+UMI raw sequence. This folder also contains the outputs generated from the count shell scripts 
 
