@@ -1,6 +1,6 @@
 # Project Description
 
-This project is a replication of a Single Cell RNA-seq Anlaysis done on pancreatic cells from human and mice samples by Baron et. al (2016)
+This project is a replication of a Single Cell RNA-seq Analysis done on pancreatic cells from human and mice samples by Baron et. al (2016)
 
 N.B. The study this project is referencing used sc-RNA-seq data from 4 human donors and 2 mice strains for single cell anlysis. However, for this project the sc-RNA-seq data associated with a 51-year-old female donor was only used.
 
